@@ -19,28 +19,28 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 
 ### Skills
 
-* **Languages (Commercial) **
+* **Languages (Commercial)**
   C#, F#, Javascript, Typescript, Node.js
 
-* **Languages (Other) **
+* **Languages (Other)**
   Scala, Haskell, Rust
 
-* **Frameworks (Front-end) **
+* **Frameworks (Front-end)**
   React, Redux, Ava, Jest, Enzyme, Babel, Webpack, ES6, ES7
 
-* **Frameworks (Back-end) **
+* **Frameworks (Back-end)**
   ASP.NET Web API, Entity Framework, Mediatr, Serilog, Autofac, Moq, Express, Swagger, NServiceBus
 
-* **Database, Integration and Cloud **
+* **Database, Integration and Cloud**
   SQL Server, ElasticSearch, Mongo, Redis, SQL Azure, Azure EventHub, MSMQ, RabbitMQ, ZeroMQ, AWS Lambda, AWS DynamoDB
 
-* **Patterns & Practices **
+* **Patterns & Practices**
   SOLID, Domain Driven Design (DDD), CQRS, Event Sourcing, Agile, Microservices, SCRUM, Kanban, BDD, TDD
 
-* **Continuous Integration **
+* **Continuous Integration**
   Docker, TeamCity, Jenkins, Octopus Deploy, GIT, Terraform
 
-* **Soft Skills **
+* **Soft Skills**
   Solution Design & Innovation, Solution Architecture, Leadership, Coaching & Mentoring, Process Improvement, Agile Leadership, Stakeholder Engagement
 ---
 <div style="page-break-after: always;"></div>
@@ -49,13 +49,13 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 **DIGITERRE** : *SENIOR CONSULTANT* __Nov 2015-Present__
 *Team leading; solution architecture and design; working with stakeholders to develop working backlog; hands on development of both server and web based client applications; Node; React; AWS; Docker; Terraform*
 
-Digiterre are a financial technology consultancy. I worked within the Agility team to deliver a number of working solutions for two of Digiterre clients.
+Digiterre are a financial technology consultancy. I worked within the Agility team to deliver a number of working products for two of Digiterre clients.
 
-* Led team in the development of a subscriber facing website for Acuris (a financial news service) to provide Primary Issuance data through their Debtwire product offering. Worked with BA’s and stakeholders to scope-out initial deliverables. Worked with the team to design a simple but flexible architecture that allowed us to quickly deliver an MVP quickly to market. An initial investment in a continuous deployment process means that check-ins to the master branch go straight to production; features flags, automated testing and production monitoring allowed us to mitigate the risk of continuous deployment. The solution consisted of ElasticSearch as data storage; node.js based RESTful services; AWS Lambda for backend processing; and React/Redux based web sites. Docker and Terraform were utilised to deliver working artifacts into the AWS Cloud infrastructure.
+* Led team in the development of a subscriber facing website for Acuris (a financial news service) to provide Primary Issuance data through their Debtwire product offering.  The initiative was very successful, and was delivered 4 months ahead of schedule. The role involved worked with BA’s and stakeholders to scope-out initial deliverables. Worked with the team to design a simple but flexible architecture that allowed us to quickly deliver an MVP quickly to market. An initial investment in a continuous deployment process means that check-ins to the master branch go straight to production; features flags, automated testing and production monitoring allowed us to mitigate the risk of continuous deployment. The solution consisted of ElasticSearch as data storage; node.js based RESTful services; AWS Lambda for backend processing; and React/Redux based web sites. Docker and Terraform were utilised to deliver working artifacts into the AWS Cloud infrastructure.
 
 * Lead a team in the development of a Company CMS for Acuris. We are employing an Event-Sourcing architecture to provide temporal queries that allow the discovery of how a company changes over time. AWS DynamoDB is employed as the backend data-store; RESTful services are developed using Node.js and the web front-end is developed using React/Redux.
 
-* Developed an advanced web analytics platform for a startup in the Ecommerce space. This included developing a rich website using React/Flux. The backend was developed in C# and hosted in Azure.
+* Developed an advanced web analytics product for a startup in the Ecommerce space. This included developing a rich website using React/Flux. The backend was developed in C# and hosted in Azure.
 
 * Whilst working at Digiterre, I have had the opportunity to employ strong solution designs skills to contribute to the architecture of many successfully delivered products. Additionally, I have been able to utilize my leadership expertise to help deliver those products given challenging time frames. Sound development practices were put in place to ensure code quality and process improvement. Structured error logging and instrumentation was used to ensure production issues could be diagnosed and fixed in a timely manner.
 
