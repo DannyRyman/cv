@@ -1,12 +1,12 @@
 # Daniel Ryan
-## Technical Team Lead | Solution Architect
+## Technical Team Lead | Full-stack Developer
 
 
 ---
 
 ### Profile
 
-Highly adaptable and innovative hands-on technical lead with over a decade’s experience steering state-of-the-art solutions within client-facing commercial environments; boasts an impressive client base, including FinTech, SMEs, Retail and insurance.
+Highly adaptable and innovative hands-on technical lead and Full-stack developer with over a decade’s experience steering state-of-the-art solutions within client-facing commercial environments; boasts an impressive client base, including FinTech, SMEs, Retail and insurance.
 
 * Extensive experience of building, leading and managing multi-disciplinary teams in the successful delivery of multiple products from discovery through to completion. Managed teams of various sizes, with the biggest being a team of 12 for Centrica (British Gas).
 * A very strong understanding of Lean and Agile development practices and principles. By studying the core theories behind the ceremonies, has an understanding of the crucial aspects of what is required to build high-performing teams that are able to deliver working software products quickly to market.
@@ -20,13 +20,13 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 ### Skills
 
 * **Languages (Commercial)**
-  C#, F#, Javascript, Typescript, Node.js
+  C#, F#, Javascript (ES8), Typescript, Node.js
 
 * **Languages (Other)**
   Scala, Haskell, Rust
 
 * **Frameworks (Front-end)**
-  React, Redux, Ava, Jest, Enzyme, Babel, Webpack, ES6, ES7
+  React, Redux, Ava, Jest, Enzyme, Babel, Webpack, ES6, ES7, ES8
 
 * **Frameworks (Back-end)**
   ASP.NET Web API, Entity Framework, Mediatr, Serilog, Autofac, Moq, Express, Swagger, NServiceBus
@@ -47,11 +47,11 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 ### Experience
 
 **DIGITERRE** : *SENIOR CONSULTANT* __Nov 2015-Present__
-*Team leading; solution architecture and design; working with stakeholders to develop working backlog; hands on development of both server and web based client applications; Node; React; AWS; Docker; Terraform*
+*Full-stack development with Node and React; Team leading; solution architecture and design; working with stakeholders to develop working backlog; hands on development of both server and web based client applications; Node; React; AWS; Docker; Terraform*
 
 Digiterre are a financial technology consultancy. I worked within the Agility team to deliver a number of working products for two of Digiterre clients.
 
-* Led team in the development of a subscriber facing website for Acuris (a financial news service) to provide Primary Issuance data through their Debtwire product offering.  The initiative was very successful, and was delivered 4 months ahead of schedule. The role involved worked with BA’s and stakeholders to scope-out initial deliverables. Worked with the team to design a simple but flexible architecture that allowed us to quickly deliver an MVP quickly to market. An initial investment in a continuous deployment process means that check-ins to the master branch go straight to production; features flags, automated testing and production monitoring allowed us to mitigate the risk of continuous deployment. The solution consisted of ElasticSearch as data storage; node.js based RESTful services; AWS Lambda for backend processing; and React/Redux based web sites. Docker and Terraform were utilised to deliver working artifacts into the AWS Cloud infrastructure.
+* Led team in the development of a subscriber facing website for Acuris (a financial news service) to provide Primary Issuance data through their Debtwire product offering.  The initiative was very successful, and was delivered 4 months ahead of schedule. The role involved worked with BA’s and stakeholders to scope-out initial deliverables. Worked with the team to design a simple but flexible architecture that allowed us to quickly deliver an MVP quickly to market. An initial investment in a continuous deployment process means that check-ins to the master branch go straight to production; features flags, automated testing and production monitoring allowed us to mitigate the risk of continuous deployment. The solution consisted of node.js based RESTful services; React/Redux based web sites; ElasticSearch as data storage; AWS Lambda for backend processing. Docker and Terraform were utilised to deliver working artifacts into the AWS Cloud infrastructure.
 
 * Lead a team in the development of a Company CMS for Acuris. We are employing an Event-Sourcing architecture to provide temporal queries that allow the discovery of how a company changes over time. AWS DynamoDB is employed as the backend data-store; RESTful services are developed using Node.js and the web front-end is developed using React/Redux.
 
