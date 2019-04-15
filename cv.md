@@ -46,14 +46,25 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 <div style="page-break-after: always;"></div>
 ### Experience
 
-**DIGITERRE** : *SENIOR CONSULTANT* __Nov 2015-Present__
+**Sapient** : *Technical Lead* __Nov 2019 Present__
+*Team Leading; Technical Leadership and Mentoring; Solution Design; React 16; MS Azure; DevOps; Styleguidist; OpenAPI*
+
+* Working with a UAE based client to setup a brand new Trade Bank in a very aggressive time-frame. 
+
+* Led a small team of developers on the creation of two web portals, Client Portal & Colleague Portal, for use of external clients and internal staff members. This included the creation of a common components library, based on the UX style-guides, and used across both portals.
+
+* Worked with a remote team of the specification of a bankend-for-frontend API to connect the frontend portals with the backoffice processes. Also led the production of a Mock API so that development could continue on the front-end, based on the agreed interfaces, whilst the backend was under development.
+
+* Implemented an authentication module to connect to Azure Active Directory for authentication and authorisation.
+
+**DIGITERRE** : *SENIOR CONSULTANT* __Nov 2015-Nov 2019__
 *Team leading; solution architecture and design; working with stakeholders to develop working backlog; hands on development of both server and web based client applications; Node; React; AWS; Docker; Terraform*
 
 Digiterre are a financial technology consultancy. I worked within the Agility team to deliver a number of working solutions for two of Digiterre clients.
 
 * Led team in the development of a subscriber facing website for Acuris (a financial news service) to provide Primary Issuance data through their Debtwire product offering. Worked with BA’s and stakeholders to scope-out initial deliverables. Worked with the team to design a simple but flexible architecture that allowed us to quickly deliver an MVP quickly to market. An initial investment in a continuous deployment process means that check-ins to the master branch go straight to production; features flags, automated testing and production monitoring allowed us to mitigate the risk of continuous deployment. The solution consisted of ElasticSearch as data storage; node.js based RESTful services; AWS Lambda for backend processing; and React/Redux based web sites. Docker and Terraform were utilised to deliver working artifacts into the AWS Cloud infrastructure.
 
-* Lead a team in the development of a Company CMS for Acuris. We are employing an Event-Sourcing architecture to provide temporal queries that allow the discovery of how a company changes over time. AWS DynamoDB is employed as the backend data-store; RESTful services are developed using Node.js and the web front-end is developed using React/Redux.
+* Led a team in the development of a Company CMS for Acuris. We are employing an Event-Sourcing architecture to provide temporal queries that allow the discovery of how a company changes over time. AWS DynamoDB is employed as the backend data-store; RESTful services are developed using Node.js and the web front-end is developed using React/Redux.
 
 * Developed an advanced web analytics platform for a startup in the Ecommerce space. This included developing a rich website using React/Flux. The backend was developed in C# and hosted in Azure.
 
@@ -65,7 +76,7 @@ Digiterre are a financial technology consultancy. I worked within the Agility te
 
 ASOS is the world's second biggest online fashion retailer.
 
-* Lead a team to extend ASOS’s logistics platform to support global fulfilment from US and European warehouses; the re-platforming of the reservations and allocations functions and the re-platforming of the supply chain and logistics systems.
+* Led a team to extend ASOS’s logistics platform to support global fulfilment from US and European warehouses; the re-platforming of the reservations and allocations functions and the re-platforming of the supply chain and logistics systems.
 
 * Played a key role in the supply chain and logistics team in the conversion of an existing, locally hosted, legacy monolith into an Azure Cloud hosted collection of microservice based components. The new architecture was architected for performance and high-availability, with an SLA of 99.99% availability,     
 
