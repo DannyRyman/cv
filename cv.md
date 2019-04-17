@@ -49,7 +49,7 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 **Sapient** : *Technical Lead* __Nov 2019 Present__
 *Team Leading; Technical Leadership and Mentoring; Solution Design; React 16; MS Azure; DevOps; Styleguidist; OpenAPI*
 
-* Working with a UAE based client to setup a brand new Trade Bank in a very aggressive time-frame. 
+* Working with a UAE based client to setup a brand new trade bank in a very aggressive time-frame. 
 
 * Led a small team of developers on the creation of two web portals, Client Portal & Colleague Portal, for use of external clients and internal staff members. This included the creation of a common components library, based on the UX style-guides, and used across both portals.
 
@@ -84,7 +84,9 @@ ASOS is the world's second biggest online fashion retailer.
 
 * Responsibilities whilst contracting at ASOS included: Working with stakeholders to define scope and prioritisation; technical leadership and mentoring; architecture and design; formatting, documenting and evangelising best practices; organising the QA team in the proactive prevention of defects.
 
-<div style="page-break-after: always;"></div>
+* Being an advid technologist, I enjoy learning new tools and programming languages; going to technical conferences; and making small open-source contributions when possible.
+
+
 **Chaucer Syndicates** : *LEAD DEVELOPER* __Jul 2012-Apr 2013__
 * C#, MicroServices, Web API, Azure, Specflow, FakeItEasy, AngularJS, Bootstrap, BDD, Agile
 
