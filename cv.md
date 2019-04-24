@@ -47,7 +47,7 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 
 ### Experience
 
-**Sapient** : *Technical Lead* __Nov 2019 Present__
+**Sapient** : *Technical Lead* __Nov 2018 Present__
 *Team Leading; Technical Leadership and Mentoring; Solution Design; React 16; MS Azure; DevOps; Styleguidist; OpenAPI*
 
 * Working with a UAE based client to setup a brand new trade bank in a very aggressive time-frame. 
@@ -58,7 +58,7 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 
 * Implemented an authentication module to connect to Azure Active Directory for authentication and authorisation.
 
-**DIGITERRE** : *SENIOR CONSULTANT* __Nov 2015-Nov 2019__
+**DIGITERRE** : *SENIOR CONSULTANT* __Nov 2015-Nov 2018__
 *Team leading; solution architecture and design; working with stakeholders to develop working backlog; hands on development of both server and web based client applications; Node; React; AWS; Docker; Terraform*
 
 Digiterre are a financial technology consultancy. I worked within the Agility team to deliver a number of working solutions for two of Digiterre clients.
