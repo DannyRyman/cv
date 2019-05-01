@@ -13,7 +13,6 @@ Highly adaptable and innovative hands-on technical lead with over a decade’s e
 - Extensive solution architecture and design experience. Able to work with others to produce coherent software architectures. Strong understanding of Cloud product offerings (Azure, AWS) and how to use these to build systems with a low total cost of ownership.
 - Strong communication skills towards both business and technical staff. Able to communicate ideas clearly and not afraid to voice concerns to the benefit of the project.
 - With a breath of technical knowledge and the ability to learn new technologies ‘on the job’. Able to hit the ground running even when using new technology.
-- Being an avid technologist I am interested in learning new tools and programming languages; going to technical conferences; and making small contributions to the open-source community.
 
 ---
 
