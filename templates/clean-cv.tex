@@ -1,16 +1,15 @@
 \documentclass[a4paper,10pt]{article}
 
-% Packages for layout and formatting
+% Formatting and layout packages
 \usepackage[margin=1.5cm]{geometry} % Narrow margins
-\usepackage{parskip} % Better paragraph spacing
-\usepackage{enumitem} % Custom lists
-\usepackage{hyperref} % Hyperlinks
-\usepackage{xcolor} % Colors for hyperlinks
+\usepackage{parskip} % Spacing between paragraphs
+\usepackage{hyperref} % Links
+\usepackage{xcolor} % Colors
 \usepackage{titlesec} % Custom section titles
-\usepackage{fontawesome5} % Icons
+\usepackage{enumitem} % Compact lists
 
 % Customizations for a clean design
-\renewcommand{\baselinestretch}{1.1} % Adjust line spacing
+\renewcommand{\baselinestretch}{1.1} % Line spacing
 \setlength{\parindent}{0pt} % No paragraph indentation
 \setlist[itemize]{noitemsep, topsep=0pt} % Compact lists
 
@@ -27,43 +26,10 @@
     pdfauthor={Daniel Ryan}
 }
 
-% Begin document body
 \begin{document}
 
-% Define Pandoc placeholders for dynamic content
-% Header
-\begin{center}
-    {\Large \textbf{\VAR{author}}} \\[0.2cm]
-    \faEnvelope \hspace{0.1cm} \href{mailto:\VAR{email}}{\VAR{email}} \\
-    \faPhone \hspace{0.1cm} \VAR{mobile}
-\end{center}
-\vspace{0.5cm}
+% Title from Markdown metadata
+\maketitle
 
-% Profile Section
-\section*{Profile}
-\VAR{profile}
-
-% Skills Section
-\section*{Skills}
-\VAR{skills}
-
-% Experience Section
-\section*{Experience}
-\VAR{experience}
-
-% Education Section
-\section*{Education}
-\VAR{education}
-
-% Contact Details Section
-\section*{Contact Details}
-\textbf{Email}: \VAR{email}\\
-\textbf{Mobile}: \VAR{mobile}
-
-% Footer
-\vspace{0.5cm}
-\begin{center}
-    \small{\textit{References available upon request.}}
-\end{center}
-
+% Content inserted dynamically by Pandoc
 \end{document}
