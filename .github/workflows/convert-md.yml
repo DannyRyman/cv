@@ -25,7 +25,7 @@ jobs:
 
     - name: Convert Markdown to PDF
       run: |
-        pandoc cv.md -o cv.pdf
+        pandoc cv.md -o cv.pdf --template=./templates/clean_cv.tex
 
     - name: Commit and push generated files
       run: |
