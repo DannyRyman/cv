@@ -6,114 +6,89 @@
 
 ### Profile
 
-Highly adaptable and innovative hands-on technical lead with over a decade’s experience steering state-of-the-art solutions within client-facing commercial environments; boasts an impressive client base, including FinTech, SMEs, Retail, and insurance.
-
-- Extensive experience in building, leading, and managing multi-disciplinary teams in the successful delivery of multiple products from discovery through to completion. Managed teams of various sizes, with the biggest being a team of 12 for Centrica (British Gas).
-- A very strong understanding of Lean and Agile development practices and principles. By studying the core theories behind the ceremonies, has an understanding of the crucial aspects of what is required to build high-performing teams that can deliver working software products quickly to market.
-- Extensive solution architecture and design experience. Able to work with others to produce coherent software architectures. Strong understanding of Cloud product offerings (Azure, AWS) and how to use these to build systems with a low total cost of ownership.
-- Strong communication skills towards both business and technical staff. Able to communicate ideas clearly and not afraid to voice concerns to the benefit of the project.
-- With a breadth of technical knowledge and the ability to learn new technologies ‘on the job’. Able to hit the ground running even when using new technology.
+Adaptable and innovative technical leader with over a decade of experience designing and delivering high-performance solutions across FinTech, retail, insurance, and SMEs. Proven expertise in building and mentoring high-performing Agile teams, modernizing legacy systems, and delivering measurable business outcomes. Known for bridging the gap between technical and business stakeholders, ensuring alignment on goals and priorities to deliver robust, scalable, and cost-efficient solutions.
 
 ---
 
 ### Skills
 
+**Programming Languages**
+- **Commercial**: C#, F#, Kotlin, Java, JavaScript, TypeScript, Node.js
+- **Other**: Scala, Haskell, Rust
 
-**Languages (Commercial)**  
-C#, F#, Kotlin, Java, Javascript, Typescript, Node.js
+**Frameworks**
+- **Front-end**: React, Redux, Ava, Jest, Enzyme, Babel, Webpack, ES6, ES7
+- **Back-end**: Entity Framework, Mediatr, Serilog, Autofac, Moq, Express, Swagger, NServiceBus, Ktor, Kotest
 
-**Languages (Other)**  
-Scala, Haskell, Rust
+**Cloud & Database Technologies**
+- SQL Server, Oracle, ElasticSearch, MongoDB, Redis
+- Azure (SQL Azure, EventHub), AWS (Lambda, DynamoDB)
+- Message Queues: MSMQ, RabbitMQ, ZeroMQ
 
-**Frameworks (Front-end)**  
-React, Redux, Ava, Jest, Enzyme, Babel, Webpack, ES6, ES7
+**Development Practices**
+- Functional Programming, Object-Oriented Programming (OO), SOLID, Domain-Driven Design (DDD)
+- CQRS, Event Sourcing, Microservices, Agile, SCRUM, Kanban, BDD, TDD
 
-**Frameworks (Back-end)**  
-Entity Framework, Mediatr, Serilog, Autofac, Moq, Express, Swagger, NServiceBus, Ktor, Kotest
+**Tools & CI/CD**
+- Docker, TeamCity, Jenkins, Octopus Deploy, GIT, Terraform
 
-**Database, Integration and Cloud**  
-SQL Server, Oracle, ElasticSearch, Mongo, Redis, SQL Azure, Azure EventHub, MSMQ, RabbitMQ, ZeroMQ, AWS Lambda, AWS DynamoDB
-
-**Patterns & Practices**  
-Functional Programming, OO, SOLID, Domain Driven Design (DDD), CQRS, Event Sourcing, Agile, Microservices, SCRUM, Kanban, BDD, TDD
-
-**Continuous Integration**  
-Docker, TeamCity, Jenkins, Octopus Deploy, GIT, Terraform
-
-**Soft Skills**  
-Solution Design & Innovation, Solution Architecture, Leadership, Coaching & Mentoring, Process Improvement, Agile Leadership, Stakeholder Engagement
+**Soft Skills**
+- Solution Design & Innovation, Leadership, Coaching & Mentoring, Process Improvement, Stakeholder Engagement
 
 ---
 
 ### Experience
 
-**BT Openreach** : _Technical Lead_ **May 2019-Present**
-_Team Leading; Technical Leadership and Mentoring; Solution Architecture and Design; Development; Java; Kotlin; React._
+**BT Openreach**: *Technical Lead*  
+**May 2019 – Present**  
+_Team Leadership | Technical Architecture | Java & Kotlin Development | React_
 
-- Worked with Openreach to support the planning, surveying, and building of the Fibre to the Premises (FTTP) network - one of the largest infrastructure projects in the UK - helping them to realise 5m YoY in efficiency savings.
+- Delivered £5M in annual efficiency savings by designing and implementing systems to support the Fibre to the Premises (FTTP) network rollout.
+- Led an 8-person development team within a wider 20-person group, overseeing solution architecture, code quality, and mentoring.
+- Rebuilt a failing Java backend as a robust Kotlin application using modular monolith architecture, ensuring maintainability and scalability.
+- Solved complex domain problems by modeling equipment networks as directed acyclic graphs within undirected physical infrastructure.
 
-- Providing technical leadership for a team of 8 developers in a wider team of around 20 people - responsibilities included solution architecture and design; mentoring; ensuring the integrity of the software architecture and code quality; as well as hands-on development.
+**Sapient**: *Technical Lead*  
+**Nov 2018 – May 2019**  
+_Team Leadership | Solution Design | React | MS Azure | DevOps_
 
-- Replaced the existing failing Java backend with a well designed, robust, and high quality Kotlin application. Made use of a modular monolith architecture to break down a complicated domain into more manageable abstractions. Used tools such as CodeMR and SonarCube to make sure the new backend did not suffer a degradation in quality over time.   
+- Led the development of two web portals for a UAE-based trade bank, delivering within a highly compressed timeframe.
+- Created a reusable component library aligned with UX style guides, improving design consistency across portals.
+- Designed and implemented an authentication module integrating Azure Active Directory.
+- Collaborated with remote teams to define backend-for-frontend API specifications and implemented a mock API to enable parallel development.
 
-- Demonstrated strong problem-solving skills. Having to model a network of equipment as a directed acyclic graph within an undirected network of physical infrastructure (tunnels, ducts, shafts, etc), brings up exciting challenges regularly.
+**Digiterre**: *Senior Consultant*  
+**Nov 2015 – Nov 2018**  
+_Solution Architecture | Full-Stack Development | AWS | Docker | Terraform_
 
-**Sapient** : _Technical Lead_ **Nov 2018-May 2019**
-_Team Leading; Technical Leadership and Mentoring; Solution Design; React 16; MS Azure; DevOps; Styleguidist; OpenAPI._
+- Delivered a time-series data ingestion service for E.ON’s Energy Trading division, utilizing .NET Core and Azure.
+- Architected a subscriber-facing portal for Acuris to provide financial data, implementing continuous deployment for rapid feature delivery.
+- Led the development of an Event-Sourcing-based CMS, leveraging AWS DynamoDB and Node.js to enable temporal queries.
+- Designed and deployed a web analytics platform for an e-commerce startup, featuring a React front-end and Azure-hosted C# backend.
 
-- Working with a UAE based client to set up a brand new trade bank in a very aggressive time-frame.
+**ASOS**: *Technical Lead / Solution Architect*  
+**Apr 2013 – Nov 2015**  
+_C# | Microservices | Web API | Azure_
 
-- Led a small team of developers on the creation of two web portals, Client Portal & Colleague Portal, for use of external clients and internal staff members. This included the creation of a common components library, based on the UX style-guides, and used across both portals.
+- Directed the re-platforming of logistics and supply chain systems, migrating legacy monoliths to Azure-hosted microservices.
+- Developed a high-performance REST API handling 2,000+ requests per second, incorporating performance tracing and health checks.
+- Led cross-functional teams to ensure scalable, highly available solutions with 99.99% uptime.
 
-- Worked with a remote team on the specification of a backend-for-frontend API to connect the frontend portals with the back-office processes. Also led the production of a Mock API so that development could continue on the front-end, based on the agreed interfaces, whilst the backend was under development.
+**Previous Roles**  
+*Lead Developer / Senior Developer* at **Chaucer Syndicates, Omnifone, Centrica, Beazley Insurance, Cofunds, Intelligent Environments, Kensington Mortgage Company, Ace Insurance** (2005–2013)
 
-- Implemented an authentication module to connect to Azure Active Directory for authentication and authorisation.
-
-**DIGITERRE** : _SENIOR CONSULTANT_ **Nov 2015-Nov 2018**
-_Team leading; solution architecture and design; working with stakeholders to develop working backlog; hands-on development of both server and web-based client applications; Node; React; AWS; Docker; Terraform; .NET Core._
-
-Digiterre is a financial technology consultancy. I worked within the Agility team to deliver several working solutions for two of Digiterre clients.
-
-- Worked in a full-stack capacity on the development of a time-series data ingestion and aggregation service for the Energy Trading division of E.ON. The backend services were developed using .NET Core and the front-end with developed using React. Azure was used as the cloud platform.
-
-- Led team in the development of a subscriber facing website for Acuris (a financial news service) to provide Primary Issuance data through their Debtwire product offering. Worked with BA’s and stakeholders to scope-out initial deliverables. Worked with the team to design a simple but flexible architecture that allowed us to deliver an MVP quickly to market. An initial investment in a continuous deployment process means that check-ins to the master branch go straight to production; features flags, automated testing, and production monitoring allowed us to mitigate the risk of continuous deployment. The solution consisted of ElasticSearch as data storage; node.js based RESTful services; AWS Lambda for backend processing; and React/Redux based web sites. Docker and Terraform were utilised to deliver working artifacts into the AWS Cloud infrastructure.
-
-- Led a team in the development of a Company CMS for Acuris. We are employing an Event-Sourcing architecture to provide temporal queries that allow the discovery of how a company changes over time. AWS DynamoDB is employed as the backend data-store; RESTful services are developed using Node.js and the web front-end is developed using React/Redux.
-
-- Developed an advanced web analytics platform for a startup in the ecommerce space. This included developing a rich website using React/Flux. The backend was developed in C# and hosted in Azure.
-
-- Whilst working at Digiterre, I have had the opportunity to employ strong solution design skills to contribute to the architecture of many successfully delivered products. Additionally, I have been able to utilize my leadership expertise to help deliver those products given challenging time frames. Sound development practices were put in place to ensure code quality and process improvement. Structured error logging and instrumentation were used to ensure production issues could be diagnosed and fixed in a timely manner.
-
-**ASOS** : _TECHNICAL LEAD / SOLUTION ARCHITECT_ **Apr 2013-Nov 2015**
-_C#, MicroServices, Web API, Azure, Specflow, FakeItEasy, AngularJS, Bootstrap, BDD, Agile._
-
-ASOS is the world's second-biggest online fashion retailer.
-
-- Led a team to extend ASOS’s logistics platform to support global fulfillment from US and European warehouses; the re-platforming of the reservations and allocations functions and the re-platforming of the supply chain and logistics systems.
-
-- Played a key role in the supply chain and logistics team in the conversion of an existing, locally hosted, legacy monolith into an Azure Cloud hosted collection of microservice based components. The new architecture was architected for performance and high-availability, with an SLA of 99.99% availability,
-
-- Included the development of a highly performant REST API to support the reservation and allocation of stock through the customer website. The API was tested to support upwards of 2000 requests per second. In addition, the API supported performance tracing, performance counters, health-check and swagger based discovery, and all implemented as cross-cutting concerns.
-
-- Responsibilities whilst contracting at ASOS included: Working with stakeholders to define scope and prioritisation; technical leadership and mentoring; architecture and design; formatting, documenting and evangelising best practices; organising the QA team in the proactive prevention of defects.
-
-**Chaucer Syndicates** : _LEAD DEVELOPER_ **Jul 2012-Apr 2013**
-**Omnifone** : _SENIOR DEVELOPER_ **Mar 2012-Jul 2012**
-**Centrica** : _TECHNICAL LEAD/SOLUTION ARCHITECT_ **Apr 2010-Mar 2012**
-**Beazley Insurance** : _LEAD DEVELOPER_ **Apr 2008-Apr 2010**
-**Cofunds** : _SENIOR DEVELOPER_ **Sep 2007-Apr 2008**
-**Intelligent Environments** : _SENIOR DEVELOPER_ **Jan 2007-Aug 2007**
-**Kensignton Mortgage Company** : _LEAD DEVELOPER_ **Apr 2006-Jan 2007**
-**Ace Insurance** : _SENIOR DEVELOPER_ **Mar 2005-Apr 2006**
+---
 
 ### Professional Qualifications
 
-- BSC 2i COMPUTER SCIENCE: UNIVERSITY OF GREENWICH
-- MICROSOFT CERTIFIED APPLICATION DEVELOPER
-- FUNCTIONAL PROGRAMMING PRINCIPLES IN SCALA (COURSERA)
-- INTRODUCTION TO FUNCTIONAL PROGRAMMING IN HASKELL (EDX)
+- BSc (Hons) Computer Science (2:1): University of Greenwich  
+- Microsoft Certified Application Developer  
+- Functional Programming Principles in Scala (Coursera)  
+- Introduction to Functional Programming in Haskell (edX)
+
+---
 
 ### Contact Details
 
-email: mail.dan.ryan@googlemail.com
-mobile: 07983 591 407
+**Email**: mail.dan.ryan@googlemail.com  
+**Mobile**: +44 7983 591 407
