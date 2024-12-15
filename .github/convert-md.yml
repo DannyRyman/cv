@@ -1,0 +1,36 @@
+name: Convert Markdown to Word and PDF
+
+on:
+  push:
+    paths:
+      - '*.md'  # Trigger only when .md files change
+  workflow_dispatch: # Allows manual triggering
+
+jobs:
+  convert:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Checkout repository
+      uses: actions/checkout@v3
+
+    - name: Install Pandoc and dependencies
+      run: |
+        sudo apt-get update
+        sudo apt-get install -y pandoc texlive-xetex texlive-fonts-recommended texlive-latex-recommended
+
+    - name: Convert Markdown to Word
+      run: |
+        pandoc cv.md -o cv.docx
+
+    - name: Convert Markdown to PDF
+      run: |
+        pandoc cv.md -o cv.pdf
+
+    - name: Commit and push generated files
+      run: |
+        git config --local user.name "Daniel Ryan"
+        git config --local user.email "mail.dan.ryan@googlemail.com"
+        git add cv.docx cv.pdf
+        git commit -m "Update Word and PDF files [skip ci]" || echo "No changes to commit"
+        git push
