@@ -1,3 +1,7 @@
+---
+geometry: margin=1.5cm
+---
+
 # Daniel Ryan
 
 ## Technical Team Lead | Solution Architect | Developer
