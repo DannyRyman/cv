@@ -21,11 +21,11 @@ jobs:
 
     - name: Convert Markdown to Word
       run: |
-        pandoc cv.md -o cv.docx
+        pandoc cv.md -o cv.docx --reference-doc=/data/templates/custom.docx
 
     - name: Convert Markdown to PDF
       run: |
-        pandoc cv.md -o cv.pdf --template=./templates/clean-cv.tex
+        pandoc cv.md -o cv.pdf --template=/data/templates/custom.latex
 
     - name: Commit and push generated files
       run: |
