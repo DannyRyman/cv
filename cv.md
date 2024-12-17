@@ -17,24 +17,24 @@ Adaptable and innovative technical leader with over a decade of experience desig
 ### Skills
 
 **Programming Languages**
-- **Commercial**: C#, F#, Kotlin, Java, JavaScript, TypeScript, Node.js
+- **Commercial**: C#, F#, Kotlin, Java, JavaScript, TypeScript, Node.js, SQL
 - **Other**: Scala, Haskell, Rust
 
 **Frameworks**
 - **Front-end**: React, Redux, Ava, Jest, Enzyme, Babel, Webpack, ES6, ES7
-- **Back-end**: Entity Framework, Mediatr, Serilog, Autofac, Moq, Express, Swagger, NServiceBus, Ktor, Kotest
+- **Back-end**: Spring, Entity Framework, Mediatr, Serilog, Autofac, Moq, Express, Swagger, NServiceBus, Ktor, Kotest
 
 **Cloud & Database Technologies**
-- SQL Server, Oracle, ElasticSearch, MongoDB, Redis
+- SQL Server, Oracle, ElasticSearch, MongoDB, Redis, Postgres
 - Azure (SQL Azure, EventHub), AWS (Lambda, DynamoDB)
-- Message Queues: MSMQ, RabbitMQ, ZeroMQ
+- Message Queues/Integration: MSMQ, RabbitMQ, ZeroMQ, Kafka
 
 **Development Practices**
 - Functional Programming, Object-Oriented Programming (OO), SOLID, Domain-Driven Design (DDD)
 - CQRS, Event Sourcing, Microservices, Agile, SCRUM, Kanban, BDD, TDD
 
 **Tools & CI/CD**
-- Docker, TeamCity, Jenkins, Octopus Deploy, GIT, Terraform
+- Github Actions, Kubernetes, Docker, TeamCity, Jenkins, Octopus Deploy, GIT, Terraform
 
 **Soft Skills**
 - Solution Design & Innovation, Leadership, Coaching & Mentoring, Process Improvement, Stakeholder Engagement
