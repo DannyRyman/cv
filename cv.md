@@ -43,9 +43,9 @@ Adaptable and innovative technical leader with over a decade of experience desig
 
 ### Experience
 
-**CAIS Group**: *Senior Backend Developer*
-**Oct 2021 – Present**
-_Kotlin | Postgres | ElasticSearch | Kubernetes | Snowflake | Kafka | REST & GraphQL APIs
+**CAIS Group**: *Senior Backend Developer*  
+**Oct 2021 – Present**  
+_Kotlin | Postgres | ElasticSearch | Kubernetes | Snowflake | Kafka | REST & GraphQL APIs_
 
 - Designed and developed core backend services for CAIS’s alternative investment platform, using Kotlin and microservice architecture.
 - Migrated two critical systems — Funds Master (master of records for alternative funds) and Funds Pre-Trade (searching, filtering, and displaying funds) — from a legacy Java platform to a modern Kotlin-based solution.
