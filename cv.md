@@ -43,8 +43,19 @@ Adaptable and innovative technical leader with over a decade of experience desig
 
 ### Experience
 
+**CAIS Group**: *Senior Backend Developer*
+**Oct 2021 – Present**
+_Kotlin | Postgres | ElasticSearch | Kubernetes | Snowflake | Kafka | REST & GraphQL APIs
+
+- Designed and developed core backend services for CAIS’s alternative investment platform, using Kotlin and microservice architecture.
+- Migrated two critical systems — Funds Master (master of records for alternative funds) and Funds Pre-Trade (searching, filtering, and displaying funds) — from a legacy Java platform to a modern Kotlin-based solution.
+- Built Asset Manager Insights, a custom dashboard enabling asset managers to view product engagement, sales pipelines, and stages.
+- Established core patterns for CQRS-based architecture, separating Postgres (write) from ElasticSearch (read) to deliver high-performance user experiences.
+- Developed both synchronous REST APIs and asynchronous Kafka integrations, enabling seamless communication across teams and systems.
+- Streamlined CI/CD pipelines using GitHub Actions to ensure rapid, reliable, and automated deployments.
+
 **BT Openreach**: *Technical Lead*  
-**May 2019 – Present**  
+**May 2019 – Oct 2021**  
 _Team Leadership | Technical Architecture | Java & Kotlin Development | React_
 
 - Delivered £5M in annual efficiency savings by designing and implementing systems to support the Fibre to the Premises (FTTP) network rollout.
